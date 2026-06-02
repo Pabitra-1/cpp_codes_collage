@@ -6,7 +6,7 @@ int main()
 
     ifstream fout;
     ofstream fin;
-    fin.open("data.txt");
+    fin.open("data.txt",ios::app);
     string s;
     cout << "Enter string : ";
     getline(cin, s);
