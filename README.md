@@ -57,6 +57,24 @@ Use array like pointer.
 Print address of a variable.
 #### 🔹Swap
 Swap the value of two variable using pointers.
+### 4. Structure_and_union
+
+#### 🔹 create_declare
+Create , decleare and initialize structure.
+
+#### 🔹 Read_print
+Read and print value of structure.
+
+#### 🔹NestedStructure
+Demonstrate how nested structure works.
+
+#### 🔹 ArrayOfStructure
+Demonstrate array of structure.
+#### 🔹Structure_and_Pointer
+How pointer works in structure.
+#### 🔹Union
+Simple union programe.
+
 
 ## 🚀 Purpose
 
