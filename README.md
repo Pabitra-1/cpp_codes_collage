@@ -17,6 +17,25 @@ An extension of linear search that finds and displays all positions where a targ
 
 #### 🔹 Print Array in Reverse Order
 A program that displays the elements of an array from the last index to the first index.
+### 2. String
+
+#### 🔹 Compare two string
+we just compare two string if they are same or not.
+
+#### 🔹 Concatinate two string
+concatinate one string into another.
+
+#### 🔹 Copy string
+Copy one string into another string as it is.
+
+#### 🔹 Count vowel
+Count vowel and consonantes in a given string 
+#### 🔹Length
+Find the length of a given string without any pre-built function
+#### 🔹Palindrome
+Check if a string is a pallindrom or not
+#### 🔹Reverse a string 
+Simply reverse a string 
 
 ## 🚀 Purpose
 
