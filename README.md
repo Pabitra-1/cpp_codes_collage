@@ -1,10 +1,10 @@
-# CPP Codes
+ <div align="center">  # CPP Codes </div>
 
 A collection of basic C++ programs demonstrating fundamental array operations and algorithms.
 
-## 📚 Topics Covered
+ <div align="center">  ## 📚 Topics Covered </div>
+ <div align="center"> ### 1. Array </div>
 
-### 1. Array
 
 #### 🔹 Bubble Sort Algorithm
 A sorting algorithm that repeatedly compares adjacent elements and swaps them if they are in the wrong order until the array is sorted.
@@ -17,7 +17,7 @@ An extension of linear search that finds and displays all positions where a targ
 
 #### 🔹 Print Array in Reverse Order
 A program that displays the elements of an array from the last index to the first index.
-### 2. String
+ <div align="center"> ### 2. String </div>
 
 #### 🔹 Compare two string
 we just compare two string if they are same or not.
@@ -36,7 +36,9 @@ Find the length of a given string without any pre-built function.
 Check if a string is a pallindrom or not.
 #### 🔹Reverse a string 
 Simply reverse a string .
-### 3. pointers
+
+ <div align="center"> ### 3. pointers</div>
+
 
 #### 🔹 Add_two_numbers
 Add two numbers using pointer.
@@ -57,7 +59,9 @@ Use array like pointer.
 Print address of a variable.
 #### 🔹Swap
 Swap the value of two variable using pointers.
-### 4. Structure_and_union
+
+ <div align="center"> ### 4. Structure_and_union</div>
+
 
 #### 🔹 create_declare
 Create , decleare and initialize structure.
@@ -74,7 +78,9 @@ Demonstrate array of structure.
 How pointer works in structure.
 #### 🔹Union
 Simple union programe.
-### 5. FileHandeling
+
+ <div align="center"> ### 5. FileHandeling</div>
+
 
 #### 🔹 ReadAndWrite
 Read and write data from a file .
