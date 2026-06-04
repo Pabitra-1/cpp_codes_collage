@@ -29,13 +29,34 @@ concatinate one string into another.
 Copy one string into another string as it is.
 
 #### 🔹 Count vowel
-Count vowel and consonantes in a given string 
+Count vowel and consonantes in a given string .
 #### 🔹Length
-Find the length of a given string without any pre-built function
+Find the length of a given string without any pre-built function.
 #### 🔹Palindrome
-Check if a string is a pallindrom or not
+Check if a string is a pallindrom or not.
 #### 🔹Reverse a string 
-Simply reverse a string 
+Simply reverse a string .
+### 3. pointers
+
+#### 🔹 Add_two_numbers
+Add two numbers using pointer.
+
+#### 🔹 ArratToFunction
+Pass a array into a function.
+
+#### 🔹Dynamically_allocation
+Dynamically allocate memory.
+
+#### 🔹 initilizePointerVariable
+Initialize a pointer .
+#### 🔹Maximum_of_two
+Find the maximum between two variable using pointer.
+#### 🔹PointerOfArray
+Use array like pointer.
+#### 🔹Printaddress
+Print address of a variable.
+#### 🔹Swap
+Swap the value of two variable using pointers.
 
 ## 🚀 Purpose
 
