@@ -74,6 +74,20 @@ Demonstrate array of structure.
 How pointer works in structure.
 #### 🔹Union
 Simple union programe.
+### 5. FileHandeling
+
+#### 🔹 ReadAndWrite
+Read and write data from a file .
+
+#### 🔹 apendData
+Apend data into a file .
+
+#### 🔹count_line_char_words
+count lines, charactesr , words in a file .
+
+#### 🔹 Copy
+Copy one files content into another file.
+
 
 
 ## 🚀 Purpose
@@ -93,4 +107,4 @@ This repository is intended for:
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Pabitra-1/cpp_codes_collage.git
