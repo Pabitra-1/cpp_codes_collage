@@ -6,7 +6,7 @@ A collection of basic C++ programs demonstrating fundamental array operations an
 
  <div align="center">   📚 Topics Covered </div>
  <hr>
- <div align="center"> ### 1. Array </div>
+ <div align="center">  1. Array </div>
 
 
 #### 🔹 Bubble Sort Algorithm
@@ -21,7 +21,7 @@ An extension of linear search that finds and displays all positions where a targ
 #### 🔹 Print Array in Reverse Order
 A program that displays the elements of an array from the last index to the first index.
 <hr>
- <div align="center"> ### 2. String </div>
+ <div align="center"> 2. String </div>
 
 #### 🔹 Compare two string
 we just compare two string if they are same or not.
@@ -42,7 +42,7 @@ Check if a string is a pallindrom or not.
 Simply reverse a string .
 <hr>
 
- <div align="center"> ### 3. pointers</div>
+ <div align="center">  3. pointers</div>
 
 
 #### 🔹 Add_two_numbers
@@ -66,7 +66,7 @@ Print address of a variable.
 Swap the value of two variable using pointers.
 <hr>
 
- <div align="center"> ### 4. Structure_and_union</div>
+ <div align="center">  4. Structure_and_union</div>
 
 
 #### 🔹 create_declare
@@ -86,7 +86,7 @@ How pointer works in structure.
 Simple union programe.
 
 <hr>
- <div align="center"> ### 5. FileHandeling</div>
+ <div align="center">  5. FileHandeling</div>
 
 
 #### 🔹 ReadAndWrite
